@@ -1,0 +1,26 @@
+name: regression-dvc-mlops-pipeline
+on: [push]
+jobs:
+  run:
+    runs-on: [ubuntu-latest]
+    container: docker://dvcorg/cml-py3:latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v3
+      - uses: iterative/setup-cml@v1
+      - name: 'Train model'
+      - run: |
+          # Your ML workflow goes here
+          pip install -r requirements.txt
+          dvc repro
+          
+          git fetch --prune
+          
+      - name: Write CML report
+        env:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+      
+          dvc metrics diff --show-md master > report.md
+          cml comment create report.md 
+          cml-send-comment report.md
