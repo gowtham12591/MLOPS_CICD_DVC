@@ -16,12 +16,11 @@ stages:
   train:
     cmd: python3 model_train.py
     deps:
-    - data_processed.csv
-    - test_data.csv
     - model_train.py
+    - data_processed.csv
+    - test_data.csv    
     outs:
     - Predicted_Data.csv
     - h2o_model
     metrics:
-    - metrics.txt:
-        cache: false       # This is for avoiding cache storage, as it may be used in different files
+    - metrics.txt

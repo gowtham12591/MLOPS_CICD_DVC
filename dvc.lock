@@ -32,32 +32,3 @@ stages:
       hash: md5
       md5: 76d128aa1fb44214884cb40682ea6863
       size: 884
-  train:
-    cmd: python3 model_train.py
-    deps:
-    - path: data_processed.csv
-      hash: md5
-      md5: 3ef07bec25dc47ba797c593557888ee1
-      size: 11496
-    - path: model_train.py
-      hash: md5
-      md5: 8ea8ae7db7621d1bde7b5a666a2910c2
-      size: 2530
-    - path: test_data.csv
-      hash: md5
-      md5: 76d128aa1fb44214884cb40682ea6863
-      size: 884
-    outs:
-    - path: Predicted_Data.csv
-      hash: md5
-      md5: e5e1078455cfc641b52d7aaeac4807ee
-      size: 1685
-    - path: h2o_model
-      hash: md5
-      md5: 535b8ab43673428074bb96d1247f70fd.dir
-      size: 1236904
-      nfiles: 1
-    - path: metrics.txt
-      hash: md5
-      md5: d39e487798ff230bf60202a31cb02558
-      size: 6234
