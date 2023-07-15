@@ -6,4 +6,4 @@ seaborn
 wget
 requests
 h2o
-dvc
+dvc==3.5.1
