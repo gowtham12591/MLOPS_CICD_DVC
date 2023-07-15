@@ -1,0 +1,8 @@
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+wget
+requests
+h2o

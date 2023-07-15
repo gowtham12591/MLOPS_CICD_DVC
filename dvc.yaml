@@ -1,0 +1,27 @@
+stages:
+  get_data:
+    cmd: python3 data_scraping.py
+    deps:
+    - data_scraping.py
+    outs:
+    - air_quality_data.csv
+  process:
+    cmd: python3 data_preprocess.py
+    deps:
+    - data_preprocess.py
+    - air_quality_data.csv
+    outs:
+    - data_processed.csv
+    - test_data.csv
+  train:
+    cmd: python3 model_train.py
+    deps:
+    - data_processed.csv
+    - test_data.csv
+    - model_train.py
+    outs:
+    - Predicted_Data.csv
+    - h2o_model
+    metrics:
+    - metrics.txt:
+        cache: false       # This is for avoiding cache storage, as it may be used in different files
