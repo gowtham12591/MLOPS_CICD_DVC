@@ -6,3 +6,4 @@ seaborn
 wget
 requests
 h2o
+dvc
