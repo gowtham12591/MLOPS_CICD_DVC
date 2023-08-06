@@ -1,0 +1,574 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+2290,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,PM10,40,125,88,NA
+2297,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,PM10,29,175,121,NA
+2289,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,PM2.5,18,95,59,NA
+2296,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,PM2.5,20,74,49,NA
+2291,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,NO2,10,49,26,NA
+2298,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,NO2,25,57,38,NA
+2292,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+2299,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,NH3,4,5,4,NA
+2293,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,SO2,5,12,9,NA
+2300,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,SO2,9,13,11,NA
+2294,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,CO,16,117,57,NA
+2301,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,CO,56,88,69,NA
+2295,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",17-07-2023 10:00:00,OZONE,11,208,18,NA
+2302,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",17-07-2023 10:00:00,OZONE,1,158,12,NA
+429,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+434,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+439,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+444,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,PM10,43,114,79,NA
+451,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",17-07-2023 10:00:00,PM10,29,138,66,NA
+456,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,PM10,19,64,45,NA
+463,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,PM10,31,109,66,NA
+470,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",17-07-2023 10:00:00,PM10,1,101,45,NA
+475,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,PM10,56,111,87,NA
+482,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",17-07-2023 10:00:00,PM10,27,128,77,NA
+487,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,PM10,34,99,73,NA
+494,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,PM10,34,87,55,NA
+428,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+433,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+438,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+443,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,41,82,60,NA
+450,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",17-07-2023 10:00:00,PM2.5,14,56,34,NA
+455,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,26,67,49,NA
+462,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,33,79,57,NA
+469,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+474,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,38,122,67,NA
+481,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",17-07-2023 10:00:00,PM2.5,25,92,54,NA
+486,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,30,258,74,NA
+493,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,PM2.5,23,70,40,NA
+430,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+435,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+440,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+445,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,NO2,16,35,20,NA
+452,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+457,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,NO2,1,12,7,NA
+464,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,NO2,29,70,45,NA
+471,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",17-07-2023 10:00:00,NO2,16,18,17,NA
+476,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,NO2,8,15,13,NA
+483,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",17-07-2023 10:00:00,NO2,7,25,13,NA
+488,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,NO2,20,78,40,NA
+495,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,NO2,19,27,22,NA
+446,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,NH3,13,16,15,NA
+458,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,NH3,7,21,9,NA
+465,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,NH3,9,15,10,NA
+477,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,NH3,7,9,7,NA
+489,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,NH3,5,14,8,NA
+496,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,NH3,26,43,34,NA
+447,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,SO2,2,2,2,NA
+459,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,SO2,6,14,7,NA
+466,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,SO2,9,19,13,NA
+478,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,SO2,6,10,9,NA
+490,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,SO2,3,11,7,NA
+497,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,SO2,1,4,2,NA
+431,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+436,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+441,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+448,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,CO,14,59,23,NA
+453,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",17-07-2023 10:00:00,CO,101,122,109,NA
+460,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,CO,20,84,57,NA
+467,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,CO,16,102,40,NA
+472,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",17-07-2023 10:00:00,CO,24,40,39,NA
+479,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,CO,44,64,51,NA
+484,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",17-07-2023 10:00:00,CO,29,104,55,NA
+491,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,CO,36,74,46,NA
+498,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,CO,4,109,39,NA
+432,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+437,India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+442,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+449,India,Delhi,Delhi,"DTU, Delhi - CPCB",17-07-2023 10:00:00,OZONE,27,51,29,NA
+454,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",17-07-2023 10:00:00,OZONE,12,25,13,NA
+461,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",17-07-2023 10:00:00,OZONE,25,52,30,NA
+468,India,Delhi,Delhi,"ITO, Delhi - CPCB",17-07-2023 10:00:00,OZONE,9,13,11,NA
+473,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",17-07-2023 10:00:00,OZONE,10,22,10,NA
+480,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",17-07-2023 10:00:00,OZONE,7,12,11,NA
+485,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",17-07-2023 10:00:00,OZONE,21,35,24,NA
+492,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",17-07-2023 10:00:00,OZONE,7,32,20,NA
+499,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",17-07-2023 10:00:00,OZONE,10,103,14,NA
+2000,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,PM10,41,105,71,NA
+2007,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",17-07-2023 10:00:00,PM10,50,102,68,NA
+2018,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,PM10,36,69,47,NA
+2025,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,PM10,51,108,76,NA
+2032,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,PM10,50,93,70,NA
+2039,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,PM10,61,116,93,NA
+1999,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,PM2.5,45,133,78,NA
+2006,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",17-07-2023 10:00:00,PM2.5,26,68,40,NA
+2011,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,PM2.5,17,43,29,NA
+2017,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,PM2.5,39,74,51,NA
+2024,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,PM2.5,15,55,32,NA
+2031,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,PM2.5,11,47,29,NA
+2038,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,PM2.5,23,49,33,NA
+2001,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,NO2,75,152,101,NA
+2008,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",17-07-2023 10:00:00,NO2,10,35,16,NA
+2012,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,NO2,17,53,25,NA
+2019,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,NO2,24,31,28,NA
+2026,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,NO2,7,21,12,NA
+2033,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,NO2,22,39,30,NA
+2040,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,NO2,8,13,11,NA
+2002,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,NH3,3,10,6,NA
+2009,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",17-07-2023 10:00:00,NH3,2,7,4,NA
+2013,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,NH3,2,5,4,NA
+2020,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,NH3,11,12,12,NA
+2027,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,NH3,3,7,5,NA
+2034,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,NH3,2,6,4,NA
+2041,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,NH3,2,2,2,NA
+2003,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,SO2,1,6,4,NA
+2010,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",17-07-2023 10:00:00,SO2,1,4,3,NA
+2014,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,SO2,1,3,2,NA
+2021,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,SO2,3,10,9,NA
+2028,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,SO2,2,8,4,NA
+2035,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,SO2,1,9,4,NA
+2042,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,SO2,9,10,10,NA
+2004,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,CO,26,112,81,NA
+2015,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,CO,12,22,16,NA
+2022,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,CO,61,119,108,NA
+2029,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,CO,14,41,28,NA
+2036,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,CO,22,55,36,NA
+2043,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,CO,34,68,41,NA
+2005,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",17-07-2023 10:00:00,OZONE,34,43,39,NA
+2016,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",17-07-2023 10:00:00,OZONE,12,14,13,NA
+2023,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",17-07-2023 10:00:00,OZONE,29,61,37,NA
+2030,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",17-07-2023 10:00:00,OZONE,5,18,10,NA
+2037,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",17-07-2023 10:00:00,OZONE,11,17,14,NA
+2044,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",17-07-2023 10:00:00,OZONE,1,3,2,NA
+1269,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,PM10,10,51,32,NA
+1276,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,PM10,20,48,30,NA
+1282,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,PM10,24,68,42,NA
+1289,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,PM10,6,20,15,NA
+1296,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,PM10,13,51,35,NA
+1303,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,PM10,18,90,44,NA
+1309,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,PM10,18,51,36,NA
+1315,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,PM10,14,69,42,NA
+1321,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,PM10,16,109,47,NA
+1328,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,PM10,17,49,35,NA
+1335,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+1341,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",17-07-2023 10:00:00,PM10,10,46,30,NA
+1347,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,PM10,13,37,25,NA
+1353,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,PM10,10,49,29,NA
+1360,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,PM10,12,49,30,NA
+1367,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",17-07-2023 10:00:00,PM10,500,500,500,NA
+1372,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,PM10,13,55,36,NA
+1379,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,PM10,11,43,27,NA
+1386,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,PM10,21,77,45,NA
+1392,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,PM10,16,71,44,NA
+1268,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,7,37,22,NA
+1275,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,PM2.5,13,54,31,NA
+1281,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,2,33,11,NA
+1288,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,PM2.5,7,22,16,NA
+1295,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,10,40,22,NA
+1302,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,14,40,23,NA
+1308,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,7,30,18,NA
+1314,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,PM2.5,15,75,45,NA
+1320,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,5,50,22,NA
+1327,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,12,40,21,NA
+1334,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+1346,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,PM2.5,11,31,21,NA
+1359,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,12,34,21,NA
+1366,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",17-07-2023 10:00:00,PM2.5,500,500,500,NA
+1371,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,10,30,19,NA
+1378,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+1385,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,10,29,20,NA
+1391,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,PM2.5,8,42,23,NA
+1270,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,NO2,4,29,13,NA
+1277,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,NO2,20,46,40,NA
+1283,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,NO2,3,21,9,NA
+1290,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,NO2,9,15,11,NA
+1297,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,NO2,10,61,28,NA
+1304,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,NO2,2,19,9,NA
+1310,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,NO2,78,118,103,NA
+1316,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,NO2,2,4,3,NA
+1322,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,NO2,8,22,16,NA
+1329,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,NO2,13,16,15,NA
+1336,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+1342,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",17-07-2023 10:00:00,NO2,2,3,2,NA
+1348,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,NO2,7,51,23,NA
+1354,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,NO2,24,27,25,NA
+1361,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,NO2,11,21,18,NA
+1368,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",17-07-2023 10:00:00,NO2,9,9,9,NA
+1373,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,NO2,18,35,25,NA
+1380,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,NO2,26,29,27,NA
+1387,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,NO2,1,6,2,NA
+1393,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,NO2,1,12,6,NA
+1271,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+1278,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,NH3,1,1,1,NA
+1284,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+1291,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,NH3,2,4,2,NA
+1298,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,NH3,2,2,2,NA
+1305,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,NH3,1,2,1,NA
+1323,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,NH3,3,4,4,NA
+1330,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,NH3,12,15,13,NA
+1337,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+1343,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",17-07-2023 10:00:00,NH3,1,1,1,NA
+1349,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+1355,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,NH3,8,9,9,NA
+1362,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+1369,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",17-07-2023 10:00:00,NH3,2,2,2,NA
+1374,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,NH3,1,30,12,NA
+1381,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,NH3,7,7,7,NA
+1388,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,NH3,15,16,16,NA
+1394,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,NH3,2,4,3,NA
+1272,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,SO2,1,2,1,NA
+1285,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,SO2,18,22,20,NA
+1292,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,SO2,37,57,48,NA
+1299,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,SO2,2,6,4,NA
+1311,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,SO2,31,59,45,NA
+1317,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,SO2,1,30,12,NA
+1324,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,SO2,45,54,49,NA
+1331,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,SO2,9,13,11,NA
+1338,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+1344,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",17-07-2023 10:00:00,SO2,2,8,4,NA
+1350,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,SO2,27,40,32,NA
+1356,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,SO2,11,11,11,NA
+1363,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,SO2,8,9,9,NA
+1375,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,SO2,3,3,3,NA
+1382,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,SO2,1,13,9,NA
+1389,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,SO2,35,38,37,NA
+1395,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,SO2,10,14,12,NA
+1273,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,CO,7,30,14,NA
+1279,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,CO,106,110,107,NA
+1286,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,CO,11,27,16,NA
+1293,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,CO,23,50,38,NA
+1300,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,CO,14,19,14,NA
+1306,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,CO,48,60,56,NA
+1312,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,CO,14,18,16,NA
+1318,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,CO,18,28,23,NA
+1325,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,CO,40,63,46,NA
+1332,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,CO,6,23,10,NA
+1339,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,CO,14,24,14,NA
+1351,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,CO,104,115,106,NA
+1357,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,CO,63,78,67,NA
+1364,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,CO,30,33,32,NA
+1376,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,CO,10,22,13,NA
+1383,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,CO,38,61,46,NA
+1396,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,CO,96,100,100,NA
+1274,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,10,205,40,NA
+1280,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",17-07-2023 10:00:00,OZONE,7,27,13,NA
+1287,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,8,24,16,NA
+1294,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",17-07-2023 10:00:00,OZONE,59,77,68,NA
+1301,India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,7,20,13,NA
+1307,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",17-07-2023 10:00:00,OZONE,10,15,12,NA
+1313,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,10,11,11,NA
+1319,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",17-07-2023 10:00:00,OZONE,1,18,7,NA
+1326,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,10,14,12,NA
+1333,India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,7,19,15,NA
+1340,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,37,42,38,NA
+1345,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+1352,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",17-07-2023 10:00:00,OZONE,3,10,5,NA
+1358,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,4,5,4,NA
+1365,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,34,37,35,NA
+1370,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",17-07-2023 10:00:00,OZONE,18,24,20,NA
+1377,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,10,14,12,NA
+1384,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,19,37,27,NA
+1390,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,2,6,4,NA
+1397,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",17-07-2023 10:00:00,OZONE,1,5,1,NA
+781,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+788,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,25,48,33,NA
+794,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+799,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,18,40,30,NA
+805,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,16,31,25,NA
+811,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,25,52,38,NA
+818,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,26,58,40,NA
+825,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,35,66,53,NA
+831,India,Karnataka,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+835,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,41,73,54,NA
+840,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,PM10,38,110,77,NA
+780,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+787,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,12,42,22,NA
+798,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,5,27,16,NA
+804,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,12,20,17,NA
+810,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,20,50,27,NA
+817,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,16,35,26,NA
+824,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,28,53,43,NA
+839,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,PM2.5,11,37,24,NA
+782,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+789,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,7,7,7,NA
+795,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+800,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,13,18,15,NA
+806,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,15,24,18,NA
+812,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,6,12,9,NA
+819,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,10,11,10,NA
+826,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,11,11,11,NA
+836,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,20,29,24,NA
+841,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,NO2,21,25,24,NA
+783,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+790,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+801,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,3,3,3,NA
+813,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+820,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,2,2,2,NA
+827,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,2,2,2,NA
+842,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,NH3,5,7,6,NA
+784,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+791,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,5,9,7,NA
+796,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+802,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,9,25,19,NA
+807,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,4,5,5,NA
+814,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,2,10,6,NA
+821,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,7,8,7,NA
+828,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,7,7,7,NA
+832,India,Karnataka,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+837,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,5,5,5,NA
+843,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,SO2,4,10,8,NA
+785,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,CO,37,38,38,NA
+792,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,16,30,21,NA
+797,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,78,78,78,NA
+808,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,6,17,9,NA
+815,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,4,24,11,NA
+822,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,19,43,34,NA
+829,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,18,19,18,NA
+833,India,Karnataka,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+838,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,11,66,26,NA
+844,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,CO,62,84,72,NA
+786,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",17-07-2023 10:00:00,OZONE,21,22,22,NA
+793,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,10,12,12,NA
+803,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,9,22,13,NA
+809,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,6,16,8,NA
+816,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,9,20,15,NA
+823,India,Karnataka,Bengaluru,"Jigani, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,6,42,14,NA
+830,India,Karnataka,Bengaluru,"Kasturi Nagar, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,8,41,14,NA
+834,India,Karnataka,Bengaluru,"RVCE-Mailasandra, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+845,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",17-07-2023 10:00:00,OZONE,10,32,13,NA
+989,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,PM10,4,44,17,NA
+988,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,PM2.5,2,34,14,NA
+990,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,NO2,10,11,11,NA
+991,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+992,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,SO2,1,12,7,NA
+993,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,CO,8,18,12,NA
+994,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",17-07-2023 10:00:00,OZONE,7,159,33,NA
+2097,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,27,92,61,NA
+2103,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,38,66,50,NA
+2110,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,61,68,63,NA
+2117,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,30,61,46,NA
+2124,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+2130,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,52,52,52,NA
+2137,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,47,56,50,NA
+2144,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,36,74,57,NA
+2150,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,PM10,64,75,68,NA
+2096,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,16,56,39,NA
+2102,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,37,70,46,NA
+2109,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,40,63,46,NA
+2116,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,36,61,45,NA
+2123,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+2129,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,18,38,26,NA
+2136,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,23,43,29,NA
+2143,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,44,71,57,NA
+2149,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,32,49,36,NA
+2156,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,16,45,28,NA
+2161,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,PM2.5,22,48,36,NA
+2098,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,34,53,44,NA
+2104,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,18,54,30,NA
+2111,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,4,7,4,NA
+2118,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+2125,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+2131,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,11,11,11,NA
+2138,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,7,8,7,NA
+2145,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,7,10,10,NA
+2151,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,8,16,11,NA
+2157,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,5,27,15,NA
+2162,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,NO2,15,18,16,NA
+2099,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,5,8,6,NA
+2105,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,2,3,2,NA
+2112,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,2,3,2,NA
+2119,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+2132,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,3,3,3,NA
+2139,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,3,3,3,NA
+2152,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,2,3,2,NA
+2163,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+2106,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,1,12,7,NA
+2113,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,1,7,3,NA
+2120,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,7,22,14,NA
+2126,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+2133,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,11,12,12,NA
+2140,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,9,11,10,NA
+2146,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,7,24,15,NA
+2153,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,6,21,12,NA
+2158,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,1,5,3,NA
+2164,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,SO2,4,8,6,NA
+2100,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,3,118,66,NA
+2107,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,6,20,13,NA
+2114,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,1,30,6,NA
+2121,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,17,24,20,NA
+2127,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,12,12,12,NA
+2134,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,40,42,41,NA
+2141,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,6,31,20,NA
+2147,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,10,34,13,NA
+2154,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,9,40,12,NA
+2159,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,21,28,24,NA
+2165,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,CO,18,28,19,NA
+2101,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,14,18,16,NA
+2108,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,7,62,39,NA
+2115,India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,9,29,17,NA
+2122,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,2,16,7,NA
+2128,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,4,4,4,NA
+2135,India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,19,19,19,NA
+2142,India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,17,38,23,NA
+2148,India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,13,35,13,NA
+2155,India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,16,33,19,NA
+2160,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,10,14,12,NA
+2166,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",17-07-2023 10:00:00,OZONE,15,19,16,NA
+1094,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+1093,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+1095,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+1096,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+1097,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+1098,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+1099,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+1003,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,PM10,5,423,95,NA
+1010,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,PM10,39,114,78,NA
+1017,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,PM10,25,72,41,NA
+1002,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,PM2.5,12,500,121,NA
+1009,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+1016,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,PM2.5,13,45,30,NA
+1004,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,NO2,7,39,16,NA
+1011,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,NO2,12,20,14,NA
+1018,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,NO2,9,29,15,NA
+1005,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,NH3,4,7,5,NA
+1012,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,NH3,3,4,3,NA
+1019,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,NH3,1,1,1,NA
+1006,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,SO2,31,36,34,NA
+1013,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,SO2,24,34,29,NA
+1020,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,SO2,22,42,32,NA
+1007,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,CO,1,41,8,NA
+1014,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,CO,24,35,25,NA
+1021,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,CO,20,48,30,NA
+1008,India,Madhya Pradesh,Bhopal,"Idgah Hills, Bhopal - MPPCB",17-07-2023 10:00:00,OZONE,14,38,24,NA
+1015,India,Madhya Pradesh,Bhopal,"Paryavaran Parisar, Bhopal - MPPCB",17-07-2023 10:00:00,OZONE,30,42,36,NA
+1022,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",17-07-2023 10:00:00,OZONE,14,27,21,NA
+2345,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,PM10,40,68,51,NA
+2352,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,PM10,30,58,39,NA
+2358,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,PM10,51,78,61,NA
+2365,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,PM10,42,65,54,NA
+2372,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,PM10,39,54,48,NA
+2379,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,PM10,29,134,73,NA
+2344,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,PM2.5,30,67,52,NA
+2351,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,PM2.5,25,56,35,NA
+2357,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,PM2.5,23,64,34,NA
+2364,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,PM2.5,45,82,64,NA
+2371,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,PM2.5,18,64,43,NA
+2378,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,PM2.5,9,152,53,NA
+2346,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,NO2,13,22,15,NA
+2353,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,NO2,9,10,9,NA
+2359,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,NO2,11,25,16,NA
+2366,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,NO2,13,20,16,NA
+2373,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,NO2,2,15,5,NA
+2380,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,NO2,25,65,40,NA
+2347,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,NH3,4,4,4,NA
+2360,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,NH3,3,20,14,NA
+2367,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,NH3,3,3,3,NA
+2374,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,NH3,11,15,14,NA
+2381,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,NH3,8,17,11,NA
+2348,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,SO2,16,18,17,NA
+2354,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,SO2,1,1,1,NA
+2361,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,SO2,1,3,2,NA
+2368,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,SO2,12,15,14,NA
+2375,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,SO2,1,23,9,NA
+2382,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,SO2,1,9,5,NA
+2349,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,CO,8,14,8,NA
+2355,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,CO,3,3,3,NA
+2362,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,CO,39,47,43,NA
+2369,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,CO,6,10,9,NA
+2376,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,CO,27,83,47,NA
+2383,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,CO,16,58,35,NA
+2350,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",17-07-2023 10:00:00,OZONE,12,41,19,NA
+2356,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",17-07-2023 10:00:00,OZONE,15,20,17,NA
+2363,India,Uttar_Pradesh,Lucknow,"Kendriya Vidyalaya, Lucknow - CPCB",17-07-2023 10:00:00,OZONE,14,28,17,NA
+2370,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",17-07-2023 10:00:00,OZONE,23,28,25,NA
+2377,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",17-07-2023 10:00:00,OZONE,38,61,48,NA
+2384,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",17-07-2023 10:00:00,OZONE,2,46,6,NA
+1809,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,PM10,37,122,62,NA
+1816,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,PM10,17,107,53,NA
+1823,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,PM10,39,297,94,NA
+1830,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,PM10,45,389,135,NA
+1837,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,PM10,29,90,59,NA
+1808,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,PM2.5,35,92,59,NA
+1815,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,PM2.5,27,86,49,NA
+1822,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,PM2.5,42,359,101,NA
+1829,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,PM2.5,44,377,151,NA
+1836,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,PM2.5,35,100,59,NA
+1810,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,NO2,15,40,21,NA
+1817,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,NO2,9,30,16,NA
+1824,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,NO2,8,29,16,NA
+1831,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,NO2,13,57,22,NA
+1838,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,NO2,4,15,9,NA
+1811,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,NH3,8,16,10,NA
+1818,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,NH3,2,5,3,NA
+1825,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,NH3,2,6,4,NA
+1832,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,NH3,2,3,2,NA
+1839,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,NH3,2,6,4,NA
+1812,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,SO2,1,44,19,NA
+1819,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,SO2,3,4,4,NA
+1826,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,SO2,1,2,1,NA
+1833,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,SO2,3,5,4,NA
+1840,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,SO2,10,22,17,NA
+1813,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,CO,26,76,43,NA
+1820,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,CO,13,34,22,NA
+1827,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,CO,13,34,22,NA
+1834,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,CO,22,53,30,NA
+1841,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,CO,8,68,34,NA
+1814,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,OZONE,15,48,23,NA
+1821,India,Rajasthan,Jaipur,"Mansarovar Sector-12, Jaipur - RSPCB",17-07-2023 10:00:00,OZONE,31,54,37,NA
+1828,India,Rajasthan,Jaipur,"RIICO Sitapura, Jaipur - RSPCB",17-07-2023 10:00:00,OZONE,25,86,38,NA
+1835,India,Rajasthan,Jaipur,"Sector-2 Murlipura, Jaipur - RSPCB",17-07-2023 10:00:00,OZONE,1,20,6,NA
+1842,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",17-07-2023 10:00:00,OZONE,14,71,27,NA
+2570,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,23,42,30,NA
+2577,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,17,28,22,NA
+2584,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,23,37,30,NA
+2591,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,24,42,30,NA
+2598,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,28,43,35,NA
+2605,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,PM10,NA,NA,NA,NA
+2569,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,25,29,27,NA
+2576,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,12,31,18,NA
+2583,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,17,26,20,NA
+2590,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,13,26,19,NA
+2597,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,3,25,12,NA
+2604,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,PM2.5,NA,NA,NA,NA
+2571,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,11,21,15,NA
+2578,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,8,16,12,NA
+2585,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,5,5,5,NA
+2592,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,5,5,5,NA
+2599,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,12,15,13,NA
+2606,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,NO2,NA,NA,NA,NA
+2572,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,8,10,9,NA
+2579,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,5,6,6,NA
+2586,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,5,5,5,NA
+2593,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,5,5,5,NA
+2600,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,3,3,3,NA
+2607,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,NH3,NA,NA,NA,NA
+2573,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,2,7,5,NA
+2580,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,9,19,14,NA
+2587,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,5,14,6,NA
+2594,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,2,5,3,NA
+2601,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,13,21,17,NA
+2608,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,SO2,NA,NA,NA,NA
+2574,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,CO,14,26,16,NA
+2581,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,CO,12,17,13,NA
+2588,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,CO,10,19,11,NA
+2595,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,CO,24,37,25,NA
+2602,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,CO,13,20,17,NA
+2609,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,CO,NA,NA,NA,NA
+2575,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,23,40,33,NA
+2582,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,9,15,11,NA
+2589,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,29,42,38,NA
+2596,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,10,30,18,NA
+2603,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,28,79,50,NA
+2610,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",17-07-2023 10:00:00,OZONE,NA,NA,NA,NA
+320,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,PM10,42,106,72,NA
+327,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,PM10,46,68,57,NA
+334,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,PM10,32,101,57,NA
+319,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,PM2.5,33,68,50,NA
+326,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,PM2.5,47,68,55,NA
+333,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,PM2.5,23,95,57,NA
+321,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,NO2,8,36,18,NA
+328,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,NO2,3,34,11,NA
+335,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,NO2,8,86,32,NA
+322,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,NH3,2,27,9,NA
+329,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,NH3,8,19,13,NA
+336,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,NH3,1,16,5,NA
+323,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,SO2,1,8,4,NA
+330,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,SO2,5,29,8,NA
+337,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,SO2,4,14,5,NA
+324,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,CO,3,62,49,NA
+331,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,CO,20,48,25,NA
+338,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,CO,34,90,47,NA
+325,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",17-07-2023 10:00:00,OZONE,13,76,37,NA
+332,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",17-07-2023 10:00:00,OZONE,17,75,22,NA
+339,India,Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",17-07-2023 10:00:00,OZONE,3,53,21,NA
